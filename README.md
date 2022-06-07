@@ -1,5 +1,7 @@
 # wallet_ui
 
+![Screenshot_1654587583](https://user-images.githubusercontent.com/78877010/172326159-b4c556a2-b172-4656-9a9a-e8f7b29e3b27.png)
+
 A new Flutter project.
 
 ## Getting Started
